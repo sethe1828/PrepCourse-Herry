@@ -1,2 +1,1 @@
-# PrepCourse-Herry
-Este es un Repositorio del modulo 2 PrepCourse de Henrry
+Este Proyecto es una prueba de como crear un repositorio
